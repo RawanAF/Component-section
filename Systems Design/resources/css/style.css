@@ -1620,12 +1620,14 @@ color: #fff;
   content: "\f02f";
   font-family: "Font Awesome 6 Free";
   font-weight: bold;
+  margin-right: 4px;
 }
 
 .dt-button.buttons-excel::before {
   content: "\f1c3";
   font-family: "Font Awesome 6 Free";
   font-weight: bold;
+  margin-right: 4px;
 }
 
 
