@@ -1661,20 +1661,23 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
   --c1: #03845B;
   --c2: #184a3a;
   color: #fff;
+  padding-top: 2px;
 }
 
 .btnedit{
-  background: linear-gradient(-232.56deg, var(--c2, --c2), var(--c1, --c1) 51%, var(--c2, --c2)) var(--x, 0)/200%;
-  --c1: #10103e;
-  --c2: #232343;
+  background: linear-gradient(-232.56deg, #adadad, #a7abad 51%, #87898b) var(--x, 0)/200%;
+  --c1: #BDC3C7;
+  --c2: #BDC3C7;
   color: #fff;
+  padding-top: 2px;
 }
 
 .btndel{
   background: linear-gradient(-232.56deg, var(--c2, --c2), var(--c1, --c1) 51%, var(--c2, --c2)) var(--x, 0)/200%;
-  --c1: #881010;
+  --c1: #c53737;
   --c2: #a72626b0;
   color: #fff;
+  padding-top: 2px;
 }
 
 .select2-container{
