@@ -1664,13 +1664,23 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
   padding-top: 2px;
 }
 
+.btndisplay:hover {
+  background-color: #35832e;
+
+}
+
 .btnedit{
-  background: linear-gradient(-232.56deg, #adadad, #a7abad 51%, #87898b) var(--x, 0)/200%;
-  --c1: #BDC3C7;
-  --c2: #BDC3C7;
+  background: linear-gradient(-232.56deg, #999, #a7abad 51%, #87898b) var(--x, 0)/200%;
+    --c1: #BDC3C7;
+    --c2: #BDC3C7;
   color: #fff;
   padding-top: 2px;
 }
+
+.btnedit:hover {
+  background-color: #b3afaf;
+}
+
 
 .btndel{
   background: linear-gradient(-232.56deg, var(--c2, --c2), var(--c1, --c1) 51%, var(--c2, --c2)) var(--x, 0)/200%;
@@ -1678,6 +1688,10 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
   --c2: #a72626b0;
   color: #fff;
   padding-top: 2px;
+}
+
+.btndel:hover {
+  background-color: #db0808;
 }
 
 .select2-container{
