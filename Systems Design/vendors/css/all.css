@@ -1367,7 +1367,8 @@ readers do not read off random characters that represent icons */
   content: "\f0aa"; }
 
 .fa-circle-check::before {
-  content: "\f058"; }
+  content: "\f058"; 
+}
 
 .fa-check-circle::before {
   content: "\f058"; }
