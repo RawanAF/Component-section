@@ -113,6 +113,11 @@ nav ul li:after{
   color: white;
   display: flex;
 }
+
+.user_id {
+  margin-right: 26px;
+}
+
 .username .user-guide{
   float:left;
   position: absolute;
