@@ -584,7 +584,7 @@ height: 100%;
 width: 100%;
 opacity: 0;
 transition: .2s ease;
-background-color: #9e9e9ee6;
+/* background-color: #9e9e9ee6; */
 border-radius: 125px;
 }
 
