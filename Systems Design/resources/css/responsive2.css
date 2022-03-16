@@ -574,6 +574,7 @@
    .login-icon {
        display: none;
    }
+   
 }
 /* Mobile devices */
 @media (max-width: 320px) {
@@ -754,8 +755,9 @@
         margin-right: -10px;
         margin-left: -13px;
     }
+
+    .user_id {
+       display: none;
+       }
 }
 
-.user_id {
-    margin-right: -77px;
-}
